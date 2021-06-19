@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawWeb", "CrawWeb\CrawWeb.csproj", "{3911671B-7B00-4CCC-95AB-DEB013273917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3911671B-7B00-4CCC-95AB-DEB013273917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3911671B-7B00-4CCC-95AB-DEB013273917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3911671B-7B00-4CCC-95AB-DEB013273917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3911671B-7B00-4CCC-95AB-DEB013273917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22087530-3223-4817-B5F5-F114F5022191}
+	EndGlobalSection
+EndGlobal

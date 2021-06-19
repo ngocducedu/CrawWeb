@@ -1,0 +1,15 @@
+D:\Projects Learning\CrawWeb\CrawWeb\obj\Debug\netcoreapp3.1\CrawWeb.csproj.AssemblyReference.cache
+D:\Projects Learning\CrawWeb\CrawWeb\obj\Debug\netcoreapp3.1\CrawWeb.AssemblyInfoInputs.cache
+D:\Projects Learning\CrawWeb\CrawWeb\obj\Debug\netcoreapp3.1\CrawWeb.AssemblyInfo.cs
+D:\Projects Learning\CrawWeb\CrawWeb\obj\Debug\netcoreapp3.1\CrawWeb.csproj.CoreCompileInputs.cache
+D:\Projects Learning\CrawWeb\CrawWeb\bin\Debug\netcoreapp3.1\CrawWeb.exe
+D:\Projects Learning\CrawWeb\CrawWeb\bin\Debug\netcoreapp3.1\CrawWeb.deps.json
+D:\Projects Learning\CrawWeb\CrawWeb\bin\Debug\netcoreapp3.1\CrawWeb.runtimeconfig.json
+D:\Projects Learning\CrawWeb\CrawWeb\bin\Debug\netcoreapp3.1\CrawWeb.runtimeconfig.dev.json
+D:\Projects Learning\CrawWeb\CrawWeb\bin\Debug\netcoreapp3.1\CrawWeb.dll
+D:\Projects Learning\CrawWeb\CrawWeb\bin\Debug\netcoreapp3.1\CrawWeb.pdb
+D:\Projects Learning\CrawWeb\CrawWeb\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\Projects Learning\CrawWeb\CrawWeb\obj\Debug\netcoreapp3.1\CrawWeb.csproj.CopyComplete
+D:\Projects Learning\CrawWeb\CrawWeb\obj\Debug\netcoreapp3.1\CrawWeb.dll
+D:\Projects Learning\CrawWeb\CrawWeb\obj\Debug\netcoreapp3.1\CrawWeb.pdb
+D:\Projects Learning\CrawWeb\CrawWeb\obj\Debug\netcoreapp3.1\CrawWeb.genruntimeconfig.cache
